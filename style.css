@@ -54,7 +54,7 @@ main {
 .indented-heading {
   background-color: hsl(43, 89%, 61%);
   border-bottom: 4px solid hsl(43, 59%, 41%);
-  padding: 16px 24px;
+  padding: 16px 32px;
   margin-left: -32px;
   margin-top: -4px;
   font-size: 18px;
